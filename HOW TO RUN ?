@@ -1,0 +1,2 @@
+MODE ENCODE:  python  huffman_optimized.py encode input_file.txt compressed_file.bin
+MODE DECODE:  python huffman_optimized.py decode compressed_file.bin output_file.txt
